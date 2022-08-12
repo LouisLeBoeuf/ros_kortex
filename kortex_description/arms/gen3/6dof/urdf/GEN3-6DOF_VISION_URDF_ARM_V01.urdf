@@ -195,7 +195,7 @@
     <axis xyz="0 0 1" />
     <limit effort="9" velocity="0.8727" />
   </joint>
-  <link name="EndEffector_Link">
+  <link name="end_effector_link">
     <inertial>
       <origin xyz="0 0 0" rpy="0 0 0" />
       <mass value="0" />
